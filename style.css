@@ -1,0 +1,63 @@
+.main{
+    color: rgb(217, 229, 255);
+    background-image: linear-gradient( rgb(30, 29, 46), rgb(16, 14, 19));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 45px;
+    font-family:sans-serif, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.content{
+    color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #243055;
+    border: 15px, solid, #243055;
+    font-family:sans-serif, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.top_menu{
+    border-style: outset;
+    border-width: 1vh;
+    border-radius: 5px;
+    border-color: rgb(83, 98, 145);
+    background-image: linear-gradient(#3a2a91, #2d1a61);
+    padding-left: 25px;
+    padding-top: 10px;
+    display: flex;
+    text-shadow: 2px 2px 2px black;
+    box-shadow: 5px 5px 5px black;
+}
+
+.menu_space{
+    flex: 1;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.menu_button{
+    padding: 8px;
+    border-width: 5px;
+    background-color: #cbd7ff;
+    border-color: #babff1;
+    border-radius: 5px;
+    border-style: solid;
+    position: relative;
+    bottom: 15%;
+    box-shadow: 2px 2px 2px black;
+}
+
+
+.header{
+    color: white;
+    font-size: 45;
+    font-weight: 5000;
+    -webkit-text-stroke: 2px white;
+    text-shadow: 5px 5px 5px black;
+}
